@@ -492,7 +492,7 @@ sample_rate = 22050
 Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
-License
+## License
 This project is licensed under the MIT License.
 
 This structure organizes the code into logical components, making it easier to maintain and extend. You can adjust the specific contents of each file as needed based on the detailed logic and functionality of your original script. &#8203;:citation[oaicite:0]{index=0}&#8203;
